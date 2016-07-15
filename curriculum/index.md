@@ -3,7 +3,6 @@ layout: default
 title: My Curriculum
 ---
 
-Testing out markdown tables
 
 | Category         | Course                                                            | Progress |
 | ---------------  | ------------------------------------------------------------------| --------:|

@@ -8,7 +8,7 @@ title: My Curriculum
 | ---------------  | ------------------------------------------------------------------| --------:|
 | Machine Learning | [Machine Learning][201]                                           |     1/11 |
 | Algorithms       | [Algorithms: Design and Analysis, Part 1][301]                    |          |
-| Data             | [Intro to Hadoop and MapReduce][401]                              |      2/4 |
+| Data             | [Intro to Hadoop and MapReduce][401]                              |      3/4 |
 | Languages        | [Try R][501]                                                      |      8/8 |
 
 [101]: https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x
